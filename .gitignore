@@ -1,0 +1,12 @@
+# Ignore compiled files and simulation outputs
+/out/
+/debug/
+/results/
+*.o
+*.so
+*.exe
+*.dll
+*.log
+*.bak
+*.opp
+*.obj
